@@ -9,6 +9,7 @@ Languages I'm currently working with include:
 - c/c++
 
 If you want to collaborate on a project, feel free to reach out!
+
 thunte27@uwo.ca
 OR
 @TMHNTR on twitter and IG
