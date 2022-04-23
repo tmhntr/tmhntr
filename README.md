@@ -1,4 +1,4 @@
-## Hey there, :wave:
+## Hey there :wave:
 
 I'm a scientific software developer using C/C++ and python to solve chalenges in modern medicine. 🫀
 
