@@ -1,6 +1,6 @@
 # :wave: Hey there
 
-I recently graduated with my M.Sc. in medical biophysics from Western University. I'm trained in use of HPC resources and implementing physics-driven numerical models. I'm currently acquiring skills in data science and am looking to launch my career as a data scientist!
+I recently graduated with an M.Sc. in Medical Biophysics from Western University. I'm trained in use of HPC resources and implementing physics-driven numerical models. I'm currently acquiring skills in data science and ready to launch my career as a data scientist!
 
 ## Technologies I love working with
 
