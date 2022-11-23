@@ -1,6 +1,6 @@
 # :wave: Hey there
 
-I recently graduated with an M.Sc. in Medical Biophysics from Western University. I'm trained in use of HPC resources and implementing physics-driven numerical models. I'm currently acquiring skills in data science and ready to launch my career as a data scientist!
+I recently graduated with an M.Sc. in Medical Biophysics from Western University. During my studies I learned about fluid dynamics and interfaced with software like [SimVascular](https://github.com/SimVascular/SimVascular) and [SUNDIALS](https://github.com/LLNL/sundials) to simulate blood flow in 0, 1 and 3 dimensions. I also gained experience visualizing data using Matplotlib and Jupyter Notebooks. I'm currently acquiring skills in data science and ready to launch my career as a data scientist!
 
 ## Technologies I love working with
 
@@ -18,7 +18,9 @@ I recently graduated with an M.Sc. in Medical Biophysics from Western University
 
 ## :pencil: I'm currently working on
 
-- Training in data science, completing my IBM Data Science Professional Certificate
+- Training in data science, completing my IBM Data Science Professional Certificate (Python, R, SQL, Hadoop)
+- An app to automatically process my personal finances using a neural network to classify charges into budget lines (pytorch, tk, google sheets api)
+- Freelance web development (Node.js, React.js and recently Vue.js)
 
 ## :book: I'm learning
 
