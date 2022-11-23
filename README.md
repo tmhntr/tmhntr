@@ -1,8 +1,8 @@
-## Hey there :wave:
+# :wave: Hey there
 
-I'm a scientific software developer using C/C++ and python to solve chalenges in modern medicine. 🫀
+I recently graduated with my M.Sc. in medical biophysics from Western University. I'm trained in use of HPC resources and implementing physics-driven numerical models. I'm currently acquiring skills in data science and am looking to launch my career as a data scientist!
 
-**I love working with**
+## Technologies I love working with
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -16,9 +16,9 @@ I'm a scientific software developer using C/C++ and python to solve chalenges in
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 </div>
 
-### :pencil: I'm working on 
+## :pencil: I'm currently working on
 
-- Currently I'm training in data science, completing my IBM Data Science Professional Certificate
+- Training in data science, completing my IBM Data Science Professional Certificate
 
 ## :book: I'm learning
 
@@ -44,4 +44,3 @@ I'm a scientific software developer using C/C++ and python to solve chalenges in
     <img src="https://img.shields.io/badge/tmhntr.com-12100E?style=for-the-badge&logo=about.me&logoColor=white" alt="Medium"/>
   </a> -->
 </div>
-
