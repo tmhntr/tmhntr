@@ -1,6 +1,8 @@
 # :wave: Hey there
 
-I recently graduated with an M.Sc. in Medical Biophysics from Western University. During my studies I learned about fluid dynamics and interfaced with software like [SimVascular](https://github.com/SimVascular/SimVascular) and [SUNDIALS](https://github.com/LLNL/sundials) to simulate blood flow in 0, 1 and 3 dimensions. I also gained experience visualizing data using Matplotlib and Jupyter Notebooks. I'm currently acquiring skills in data science and ready to launch my career as a data scientist!
+I recently graduated with an M.Sc. in Medical Biophysics from Western University. During my studies I learned about fluid dynamics and interfaced with software like [SimVascular](https://github.com/SimVascular/SimVascular) and [SUNDIALS](https://github.com/LLNL/sundials) to simulate blood flow in 0, 1 and 3 dimensions. I also gained experience visualizing data using Matplotlib and Jupyter Notebooks. 
+
+I'm currently acquiring skills in data science and am ready to launch my career as a data scientist!
 
 ## Technologies I love working with
 
