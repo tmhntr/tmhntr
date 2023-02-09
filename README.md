@@ -27,7 +27,7 @@ I'm currently acquiring skills in data science and am ready to launch my career 
 
 - Training in data science, completing my Data Science Specialization from Johns Hopkins University
 - An app to automatically process my personal finances using a neural network to classify charges into budget lines (pytorch, tk, google sheets api)
-- Freelance web development (Node.js, Vue.js and recently Vue.js)
+- Freelance web development (Node.js, FastApi and Vue.js)
 
 ## :book: I'm learning
 
