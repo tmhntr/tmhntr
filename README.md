@@ -9,7 +9,7 @@ Here is where you can find all the public code from my software development proj
 
 <div align="center">
   
-<hr width="50%">
+---
 
 ## About Me
 
@@ -19,8 +19,8 @@ I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/
 
 <div align="center">
   
-<hr width="50%">
-
+---
+  
 ## Technologies I love working with
 
 
@@ -47,8 +47,8 @@ I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/
 
 <div align="center">
   
-<hr width="50%">
-
+---
+  
 ## :mailbox: Reach me at
 
 
