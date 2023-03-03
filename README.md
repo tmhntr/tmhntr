@@ -5,7 +5,7 @@
 
 </div>
 
-I am a young graduate pursuing my career as a data scientist!
+Welcome!
 
 Here is where you can find all the public code from my software development projects.
 
@@ -13,9 +13,7 @@ Here is where you can find all the public code from my software development proj
 
 ### About Me
 
-M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/etd/8824/). I'm currently acquiring data science skills and certifications from John’s Hopkins University. I use programming for data science and creating web applications!
-
-I'm currently acquiring skills in data science and am ready to launch my career as a data scientist!
+I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/etd/8824/). I'm currently acquiring data science skills and certifications from John’s Hopkins University. I use programming for data science and creating web applications!
 
 ## Technologies I love working with
 
