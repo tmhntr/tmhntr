@@ -1,12 +1,19 @@
-# :wave: Hey there
+
+<div align="center">
+  
+## :wave: Hello there
+
+</div>
 
 I am a young graduate pursuing my career as a data scientist!
 
 Here is where you can find all the public code from my software development projects.
 
-## About Me
+<hr width="33%">
 
-I am a recent M.Sc. graduate from University of Western Ontario. I was trained as a medical biophysicist, performing computational hemodynamics expriements for my [thesis](https://ir.lib.uwo.ca/etd/8824/). I'm currently acquiring data science skills and certifications from John’s Hopkins University.
+### About Me
+
+M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/etd/8824/). I'm currently acquiring data science skills and certifications from John’s Hopkins University. I use programming for data science and creating web applications!
 
 I'm currently acquiring skills in data science and am ready to launch my career as a data scientist!
 
@@ -23,11 +30,8 @@ I'm currently acquiring skills in data science and am ready to launch my career 
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 </div>
 
-## :pencil: I'm currently working on
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmhntr&layout=compact&theme=dark&hide_border=true" />
 
-- Training in data science, completing my Data Science Specialization from Johns Hopkins University
-- An app to automatically process my personal finances using a neural network to classify charges into budget lines (pytorch, tk, google sheets api)
-- Freelance web development (Node.js, Python, and Vue.js)
 
 ## :book: I'm learning
 
