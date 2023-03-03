@@ -7,9 +7,9 @@
 
 Here is where you can find all the public code from my software development projects.
 
-<hr width="50%">
-
 <div align="center">
+  
+<hr width="50%">
 
 ## About Me
 
@@ -17,9 +17,9 @@ Here is where you can find all the public code from my software development proj
 
 I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/etd/8824/). I'm currently acquiring data science skills and certifications from John’s Hopkins University. I use programming for data science and creating web applications!
 
-<hr width="50%">
-
 <div align="center">
+  
+<hr width="50%">
 
 ## Technologies I love working with
 
@@ -45,9 +45,9 @@ I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/
 
 </div>
 
-<hr width="50%">
-
 <div align="center">
+  
+<hr width="50%">
 
 ## :mailbox: Reach me at
 
@@ -64,6 +64,7 @@ I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/
     <img src="https://img.shields.io/badge/Mastodon--%231DA1F2.svg?style=social&logo=mastodon" alt="Mastodon"/>
   </a>
 
+  
   <a href="https://timhunter.dev">
     <img src="https://img.shields.io/badge/timhunter.dev-darkgreen?style=for-the-badge&logo=tvtime&logoColor=white" alt="Medium"/>
   </a>
