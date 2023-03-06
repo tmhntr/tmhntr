@@ -9,8 +9,6 @@ Here is where you can find all the public code from my software development proj
 
 <div align="center">
   
----
-
 ## About Me
 
 </div>
@@ -18,9 +16,7 @@ Here is where you can find all the public code from my software development proj
 I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/etd/8824/). I'm currently acquiring data science skills and certifications from John’s Hopkins University. I use programming for data science and creating web applications!
 
 <div align="center">
-  
----
-  
+    
 ## Technologies I love working with
 
 
@@ -46,9 +42,7 @@ I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/
 </div>
 
 <div align="center">
-  
----
-  
+    
 ## :mailbox: Reach me at
 
 
