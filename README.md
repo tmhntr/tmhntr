@@ -41,7 +41,7 @@ I'm an M.Sc. graduate trained in [computational medicine](https://ir.lib.uwo.ca/
   <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmhntr&layout=compact&theme=dark&hide_border=true" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmhntr&layout=compact&theme=dark&hide_border=true" /> -->
 
 </div>
 
